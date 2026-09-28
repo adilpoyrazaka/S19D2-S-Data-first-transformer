@@ -29,3 +29,7 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+
+# Local env and downloaded data
+.venv/
+data/
