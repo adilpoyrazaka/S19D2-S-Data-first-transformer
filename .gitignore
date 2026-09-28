@@ -33,3 +33,4 @@ mlruns
 # Local env and downloaded data
 .venv/
 data/
+.python-version
